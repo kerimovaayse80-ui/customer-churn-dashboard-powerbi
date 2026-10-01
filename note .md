@@ -222,13 +222,3 @@ Target: 2,186 customers, 47.4% churn. Contact new customers during the first 3 m
 **3. Encourage Electronic check customers to switch to automatic payment.**
 Target: 2,365 customers, 45.3% churn, compared with 15-19% for the other payment methods. Offer a small monthly credit for moving to bank transfer or credit card autopay. This comes third because payment method is likely a signal of low commitment rather than the cause, so the effect is less certain than for recommendations 1 and 2. It is still cheap to run and reaches a large group.
 
-## Deliverables
-
-- `churn_dashboard.pbix`
-- `dashboards/dashboard_full.png` (Churn Dashboard, no filters)
-- `dashboards/dashboard_filtered.png` (Contract = Month-to-month applied)
-- `dashboards/segment_analysis.png` (Segment Analysis page)
-- `dashboards/whatif_scenario.png` (What-if Scenario page)
-- `dashboards/tooltip_hover.png` (tooltip shown on hover)
-- `note.md` (this file)
-- `README.md`
